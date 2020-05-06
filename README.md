@@ -1,4 +1,4 @@
-Result here : quizzical-jackson-fb8a5f.netlify.app
+Result here : https://quizzical-jackson-fb8a5f.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
